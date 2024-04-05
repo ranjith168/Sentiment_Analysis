@@ -16,10 +16,7 @@ Sentiment analysis is a natural language processing (NLP) task aimed at understa
 
 ## Usage
 
-1. Clone the repository:
-
-git clone https://github.com/Tejesh1606/Sentiment_Analysis.git
-
+1. Clone the repository:git clone https://github.com/Tejesh1606/Sentiment_Analysis.git
 
 2. Download the data zip file from [here]https://github.com/Tejesh1606/Sentiment_Analysis/blob/main/text%20csv%20file.zip and extract it into the project directory.
 
